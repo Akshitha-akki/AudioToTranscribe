@@ -8,6 +8,5 @@ Command- pip install -U openai-whisper
 # Or also can use
 Command- pip install git+https://github.com/openai/whisper.git
 
-# After that install and this for Ubuntu and Debian 
+# Also install this in Ubuntu and Debian
 Command- !sudo apt update && sudo apt install ffmpeg
-
