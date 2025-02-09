@@ -11,4 +11,3 @@ Command- pip install git+https://github.com/openai/whisper.git
 # After that install and this for Ubuntu and Debian 
 Command- !sudo apt update && sudo apt install ffmpeg
 
-# I have used Google Colabs for this project
